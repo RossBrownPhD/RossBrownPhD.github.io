@@ -1,9 +1,4 @@
-title: Ross Brown's Website
-author: Ross Brown, Ph.D.
-email: ross.brown.data.science@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  I'm a data scientist with a background in psychometrics. Some of my work is shown here.
-# social links
-github_username:  RossBrownPhD
-
-show_excerpts: true # set to false to remove excerpts on the homepage
+name: Ross Brown, Ph.D.
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+description: > 
