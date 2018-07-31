@@ -4,6 +4,7 @@ title: "Link to resume"
 date: 2018-07-31
 ---
 
-Here's a 
-[link]({{https://rossbrownphd.github.io}}/assets/Ross Brown Data Science 2018 Resume.pdf)
-to my resume. It may only be viewable via download.
+
+The website hosting service I'm using doesn't work well with links. Please cut and paste the link below to view my resume:
+
+https://drive.google.com/open?id=1JbtAaqNN_f1gpSnKWW8pXPICdPxrmBpG
