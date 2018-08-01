@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Resume two"
-date: 2018-07-30
+date: 2018-08-01
 ---
 
 Here's a link to my resume:
