@@ -4,7 +4,7 @@ title: "Plotly-Data-Visualization Project"
 date: 2018-07-30
 ---
 
-I created an interesting visualization with a dataset I came across. After much data wrangling, I was able to develop this interactive visualization showing the age discepancies between male and female actors in couples depicted in Hollywood movies. I'll be fine-tuning this in the future.  
+I created an interesting visualization with a dataset I came across. After much data wrangling, I was able to develop this interactive visualization showing the age discepancies between male and female actors in couples depicted in Hollywood movies. I have many additional ideas to make this more informative, and I'll incorporating them in the future.  
 Here's the link:
 
 [Plotly](https://plot.ly/~Ross.Brown.Ph.D./73/).
