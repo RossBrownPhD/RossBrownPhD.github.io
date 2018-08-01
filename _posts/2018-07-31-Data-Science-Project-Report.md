@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Project Report2"
+title: "Data Science Project Report"
 date: 2018-07-30
 ---
 
