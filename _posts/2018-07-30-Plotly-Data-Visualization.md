@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Plotly-Data-Visualization Project"
-date: 2018-07-30
+title: "Age Discrepancies between Men and Women in Movie Couples over Time"
+date: 2018-08-03
 ---
 
 I created an interesting visualization with a dataset I came across. After much data wrangling, I was able to develop this interactive visualization showing the age discepancies between male and female actors in couples depicted in Hollywood movies. I have many additional ideas to make this more informative, and I'll incorporat them in the future. Currently decades (1930 - Present) are color coded. Be sure to use the vertical and horizontal sliders, select chart areas to zoom, and hover for information. 
