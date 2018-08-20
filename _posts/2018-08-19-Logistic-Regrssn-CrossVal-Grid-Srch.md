@@ -4,7 +4,7 @@ title: "Logistic Regression for Classification, Cross Validation and Grid Search
 date: 2018-08-19
 ---
 
-Here's a Jupyter notebook that shows my work using machine learning techniques to solve a problem. The techniques include logistic regression for classification, cross validation, and grid search.
+Here's a Jupyter notebook that shows my work using machine learning techniques to solve a problem. The techniques include classification using logistic regression; cross validation; and grid search. 
 
 Please cut and paste the link below:
 
