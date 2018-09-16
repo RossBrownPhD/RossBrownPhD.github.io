@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Snarky, Utilitarian or Abstruse: Comparing Movie Reviewers' Writing Style via NLP, nltk, Cosine similarity"
+title: "Snarky, Utilitarian or Abstruse: Comparing Movie Reviewers' Writing Style via NLP, nltk, Cosine Similarity"
 date: 2018-09-16
 ---
 
