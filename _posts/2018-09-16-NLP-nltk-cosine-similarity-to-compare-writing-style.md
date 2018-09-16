@@ -1,18 +1,21 @@
 ---
 layout: post
-title: "Snarky, Utilitarian or Abstruse: Comparing Movie Reviewers' Writing Style via NLP, nltk, Cosine Similarity"
+title: "Snarky, Utilitarian or Abstruse: Comparing Movie Reviewers' Writing Styles via NLP, nltk, Cosine Similarity"
 date: 2018-09-16
 ---
 
-Snarky, Utilitarian or Abstruse: Using Data Science to Compare Movie Reviewers' Writing Style
+Snarky, Utilitarian or Abstruse: Using Data Science to Compare Movie Reviewers' Writing Styles
 
-As a movie aficionado, I've spent far too much time reading movie reviews (or listening to them on the radio). I've developed perceptions of some movie reviewers' writing style. This data science project sought to verify these perceptions using a natural language processing technique that can quantify the similarity of text: cosine similarity of document vectors.
+As a movie aficionado, I've spent far too much time reading movie reviews (or listening to them on the radio). I've developed perceptions of some movie reviewers' writing styles. This data science project sought to verify these perceptions using a natural language processing technique that can quantify the similarity of text: cosine similarity of document vectors.
 
 Below are pairs of movie reviewers whose work I'm familiar with, and an adjective that to my mind characterizes their writing style.
 
 Anthony Lane and Rex Reed: Snarky
+
 Dave Kehr and Jonathan Rosenbaum: Abstruse
+
 Michael Wilmington and Richard Roeper: Utilitarian
+
 Owen Gleiberman and David Edelstein: Urbane
 
 I'm less familiar with some of the reviewers, so my perceptions may be off base, and the findings of this data science project may reflect misperceptions I have. 
