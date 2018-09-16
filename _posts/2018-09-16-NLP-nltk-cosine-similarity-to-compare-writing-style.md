@@ -20,7 +20,7 @@ Owen Gleiberman and David Edelstein: Urbane
 
 I'm less familiar with some of the reviewers, so my perceptions may be off base, and the findings of this data science project may reflect misperceptions I have. 
 
-I conducted pairwise comparisons of text from these reviewers on RottenTomatoes.com, comparing two reviewers hypothesized to have a similar writing style with a third reviewer hypothesized to have a writing style dissimilar to the other two. The measurements of text similarity range from zero to 1, with one reflecting identical vectors.
+I conducted pairwise comparisons of text from these reviewers on RottenTomatoes.com, comparing two reviewers hypothesized to have a similar writing style with a third reviewer hypothesized to have a writing style dissimilar to the other two. The measurements of text similarity range from zero to 1, with 1 reflecting identical vectors.
 
 The results of the comparisons supported the pairings alluded to in the headline.
 
@@ -32,7 +32,7 @@ Findings from some comparisons aligned with my hypotheses, but the differences b
 
 Overall, Kehr and Rosenbaum were more of apiece than any of the other pairs of reviewers with writing styles that were hypothesized to be similar. And Roeper's writing style was more frequently an outlier than any other reviewer's writing.
 
-While this investigation had some interesting findings, I think there are more conceptually and methodologically robust ways to explore this area of inquiry.
+While this investigation had some interesting findings, there are more conceptually and methodologically robust ways to explore this area of inquiry, which I'll implement later.
 
 Cut and paste the link below to check out the Jupyter notebook for other results and the code.
 
