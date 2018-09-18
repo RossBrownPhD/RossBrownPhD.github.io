@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Text classification via naive Bayes, logistic regression, SVM, and with/without tf-idf vectorization"
+title: "Text classification via naive Bayes, logistic regression, SVM, and with tf-idf vectorization"
 date: 2018-09-17
 ---
 
