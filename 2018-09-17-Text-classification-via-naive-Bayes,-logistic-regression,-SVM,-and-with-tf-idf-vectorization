@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Text classification via naive Bayes, logistic regression, SVM, and with/without tf-idf vectorization"
+date: 2018-09-17
+---
+
+This started out as an exercise on naive Bayes for text classification. Using the data provided (text for reviews on rottentomatoes.com and the reviews' fresh or not designation, i.e., the text classification), I instead explored some related methods I was interested in, specifically:
+
+1. Implementing text normalization and preprocessing
+2. Comparing outcomes from several text classification models (naive Bayes, logistic rgression, and support vector machines)
+3. And doing so with and without term-frequency/inverse document frequency (TF-IDF) vectorization
