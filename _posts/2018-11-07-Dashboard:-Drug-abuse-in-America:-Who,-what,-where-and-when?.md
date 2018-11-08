@@ -4,7 +4,7 @@ title: "Dashboard: Drug abuse in America: Who, what, where and when?"
 date: 2018-11-07
 ---
 
-FFor this dashboard, I:
+For this dashboard, I:
 
 * wrangled data on every person admitted for substance abuse treatment in America over a 23-year period, extracting and analyzing 41 million cases out of more than 400 million;
 * conducted EDA to identify interesting patterns in the data;
