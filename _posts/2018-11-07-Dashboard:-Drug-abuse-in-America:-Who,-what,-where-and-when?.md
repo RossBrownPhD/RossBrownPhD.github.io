@@ -8,8 +8,6 @@ I conceptualized and executed multiple visualizations for this dashboard, diving
 
 My exploratory data analysis on the 41 million records identified interesting patterns across time, race and gender that I chose to highlight in the dashboard. I also combined the data with census data to illustrate how different states vary in rates of abuse and preferred drugs.
 
-Click through to play around with the visualizations and find the answers to the questions in the headline.
-
-[Plotly](https://plot.ly/dashboard/Ross.Brown.Ph.D.:139/view)
+[Click through](https://plot.ly/dashboard/Ross.Brown.Ph.D.:139/view) to play around with the visualizations and find the answers to the questions in the headline.
 
 Repo with Jupyter notebooks to follow.
