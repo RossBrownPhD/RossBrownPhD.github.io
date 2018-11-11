@@ -10,6 +10,6 @@ My exploratory data analysis on the 41 million records identified interesting pa
 
 Click through to play around with the visualizations and find the answers to the questions in the headline.
 
-Repo with Jupyter notebooks to follow.
+[Plotly](https://plot.ly/dashboard/Ross.Brown.Ph.D.:139/view).
 
-https://plot.ly/dashboard/Ross.Brown.Ph.D.:139/view
+Repo with Jupyter notebooks to follow.
