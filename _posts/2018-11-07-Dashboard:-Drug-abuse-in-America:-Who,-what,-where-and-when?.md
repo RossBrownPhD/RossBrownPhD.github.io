@@ -4,11 +4,9 @@ title: "Dashboard: Drug abuse in America: Who, what, where and when?"
 date: 2018-11-07
 ---
 
-For this dashboard, I:
+I conceptualized and executed multiple visualizations for this dashboard, diving deep into a data set I was familiar with from another project. Starting with detailed information on every American admitted for substance abuse treatment over a 23-year period, I focused on abuse patterns for common illegal drugs. In the process of extracting that data, I encountered missing data, tracked down the extent of the missing data and adjusted my plans to account for the omissions.
 
-* wrangled data on every person admitted for substance abuse treatment in America over a 23-year period, extracting and analyzing 41 million cases out of more than 400 million;
-* conducted EDA to identify interesting patterns in the data;
-* and conceptualized the presentation, combined data sources and created interactive visualizations for the dashboard using Plotly.
+My exploratory data analysis on the 41 million records identified interesting patterns across time, race and gender that I chose to highlight in the dashboard. I also combined the data with census data to illustrate how different states vary in the abuse rates and preferred drugs.
 
 Click through to play around with the visualizations and find the answers to the questions in the headline.
 
