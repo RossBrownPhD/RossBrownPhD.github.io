@@ -10,4 +10,4 @@ My exploratory data analysis on the 41 million records identified interesting pa
 
 [Click through](https://plot.ly/dashboard/Ross.Brown.Ph.D.:139/view) to play around with the visualizations and find the answers to the questions in the headline.
 
-Repo with Jupyter notebooks to follow.
+[See my data wrangling Python work](https://github.com/RossBrownPhD/Data-wrangling-for-dashboard) at my repo.
