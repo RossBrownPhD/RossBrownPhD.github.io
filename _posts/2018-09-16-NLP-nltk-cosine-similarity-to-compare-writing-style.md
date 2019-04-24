@@ -34,7 +34,7 @@ Overall, Kehr and Rosenbaum were more of apiece than any of the other pairs of r
 
 While this investigation had some interesting findings, there are more conceptually and methodologically robust ways to explore this area of inquiry, which I'll implement later.
 
-Cut and paste the link below to check out the Jupyter notebook for other results and the code.
+Copy and paste the link below to check out the Jupyter notebook for other results and the code.
 
 https://github.com/RossBrownPhD/Work_Samples_and_Resume/blob/master/08_NLP_nltk_and_vector_cosine_similarity_for_comparing_movie_reviewers_writing_style.ipynb
 
