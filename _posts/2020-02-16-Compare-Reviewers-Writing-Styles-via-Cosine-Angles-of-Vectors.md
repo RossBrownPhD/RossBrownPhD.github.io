@@ -36,7 +36,5 @@ Overall, Kehr and Rosenbaum were more of apiece than any of the other pairs of r
 
 To see the code, the full results, and a technical discussion of the relative benefits of cosine similarity to other methods for creating vectors from text, copy and paste the link below:
 
-Copy and paste the link below to check out the Jupyter notebook for other results and the code.
-
 http://bit.ly/2OZTLNb
 
