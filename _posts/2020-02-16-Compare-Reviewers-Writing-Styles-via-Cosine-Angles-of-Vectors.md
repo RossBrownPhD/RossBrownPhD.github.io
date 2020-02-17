@@ -6,6 +6,8 @@ date: 2018-09-16
 
 Snarky, Utilitarian or Abstruse: Using Data Science to Compare Movie Reviewers' Writing Styles
 
+This project uses Natural Language Tool-Kit (NLTK) for text preprocessing, then assesses the similarity of document pairs using the cosine of the angle between two vectors.
+
 As a movie aficionado, I've spent far too much time reading movie reviews (or listening to them on the radio). I've developed perceptions of some movie reviewers' writing styles. This data science project sought to verify these perceptions using a natural language processing technique that can quantify the similarity of text: cosine similarity of document vectors.
 
 Below are pairs of movie reviewers whose work I'm familiar with, and an adjective that to my mind characterizes their writing style.
@@ -32,9 +34,9 @@ Findings from some comparisons aligned with my hypotheses, but the differences b
 
 Overall, Kehr and Rosenbaum were more of apiece than any of the other pairs of reviewers with writing styles that were hypothesized to be similar. And Roeper's writing style was more frequently an outlier than any other reviewer's writing.
 
-While this investigation had some interesting findings, there are more conceptually and methodologically robust ways to explore this area of inquiry, which I'll implement later.
+To see the code, the full results, and a technical discussion of the relative benefits of cosine similarity to other methods for creating vectors from text, copy and paste the link below:
 
 Copy and paste the link below to check out the Jupyter notebook for other results and the code.
 
-https://github.com/RossBrownPhD/Work_Samples_and_Resume/blob/master/08_NLP_nltk_and_vector_cosine_similarity_for_comparing_movie_reviewers_writing_style.ipynb
+http://bit.ly/2OZTLNb
 
