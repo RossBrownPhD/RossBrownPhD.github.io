@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Comparing Movie Reviewers' Writing Styles via NLP, nltk, Cosine Similarity"
-date: 2018-09-16
+date: 2020-02-16
 ---
 
 Snarky, Utilitarian or Abstruse: Using Data Science to Compare Movie Reviewers' Writing Styles
