@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Using-NLP,-two-document-modeling-approaches,-and-several-ML-algorithms-to-predict-fresh-movies"
-date: 2020-02-16
+title: "Using NLP, two document modeling approaches, and several ML algorithms to predict fresh movies"
+date: 2020-02-15
 ---
 
 Natural Language Processing is a major tributary of data science. For this project I used NLP methods to create features derived from text to predict a categorical target. Specically, this NLP project entailed:
