@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Comparing Movie Reviewers' Writing Styles via NLP, nltk, Cosine Similarity"
+title: "Comparing movie reviewers' writing styles via NLP, nltk, cosine similarity"
 date: 2020-02-16
 ---
 
