@@ -12,4 +12,6 @@ Natural Language Processing is a major tributary of data science. For this proje
 
 Rottentomatoes.com is a movie review aggregator that classifies positive movie reviews as "Fresh," and negative movie reviews as "Rotten." Along with this categorical designation, for many of the reviews the data includes snippets of the text movie reviews. These snippets are the natural language text (the features) that I used to predict whether the review is classified as Fresh or Rotten (the target).
 
+Click the link below to learn more about NLP, see the code, and see the results.
+
 http://bit.ly/NLP_1
