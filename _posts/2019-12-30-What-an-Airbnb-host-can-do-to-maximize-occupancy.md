@@ -12,4 +12,4 @@ This project includes preprocessing, exploratory data analysis, feature selectio
 
 Turns out there's a lot that hosts can do that is predictive of lower vacancy rates. Click the link below to read on and find out.
 
-https://nbviewer.jupyter.org/github/RossBrownPhD/Work_Samples_and_Resume/blob/master/11%20Predicting%20High%20Occupancy%20for%20Airbnb%20Rentals.ipynb
+http://bit.ly/RBPHD_airbnb
